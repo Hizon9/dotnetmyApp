@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\maki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\maki\\.nuget\\packages"
+    ]
+  }
+}
